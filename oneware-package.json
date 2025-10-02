@@ -1,0 +1,37 @@
+{
+    "category": "OneAI Support",
+    "type": "Hardware",
+    "name": "OneAI STM32N6x7 Support",
+    "id": "OneWare.AI.STM32N6x7",
+    "description": "STM32N6x7 support for OneAI Extension",
+    "iconUrl": "https://raw.githubusercontent.com/one-ware/OneWare.AI.STM32N6x7/main/Icon.png",
+    "license": "MIT",
+    "tabs": [
+      {
+        "title": "Readme",
+        "contentUrl": "https://raw.githubusercontent.com/one-ware/OneWare.AI.STM32N6x7/main/README.md"
+      },
+      {
+        "title": "License",
+        "contentUrl": "https://raw.githubusercontent.com/one-ware/OneWare.AI.STM32N6x7/main/LICENSE"
+      }
+    ],
+    "links": [
+      {
+        "name": "Github",
+        "url": "https://github.com/one-ware/OneWare.AI.STM32N6x7"
+      }
+    ],
+    "versions": [
+      {
+        "version": "1.0",
+        "targets": [
+          {
+            "target": "all",
+            "url": "https://github.com/one-ware/OneWare.AI.STM32N6x7/releases/download/1.0/OneWare.AI.STM32N6x7-1.0-all.zip"
+          }
+        ]
+      }
+    ]
+  }
+  

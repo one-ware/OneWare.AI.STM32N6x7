@@ -1,0 +1,29 @@
+{
+    "configurationName": "STM32N6x7",
+    "hardwareType": "MCU",
+    "prioritizeSpeedOptimization": false,
+    "dspGroups": 1,
+    "prioritizeMemoryOptimization": false,
+    "memoryLimitUnit": "KB",
+    "optimizeForParallelExecution": true,
+    "quantizedCalculations": true,
+    "bitsPerValue": 8,
+    "types": [
+        {
+            "name": "STM32N6x7xx CPU (Arm Cortex-M55)",
+            "computeCapability": 800,
+            "computeCapabilityUnit": "MOPS",
+            "dspBlocks": 1,
+            "memoryLimit": 4200,
+            "memoryLimitUnit": "KB"
+        },
+        {
+            "name": "STM32N6x7xx NPU (Neural-ART)",
+            "computeCapability": 600000,
+            "computeCapabilityUnit": "MOPS",
+            "dspBlocks": 1,
+            "memoryLimit": 4200,
+            "memoryLimitUnit": "KB"
+        }
+    ]
+},
