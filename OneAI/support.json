@@ -1,5 +1,6 @@
 {
     "configurationName": "STM32N6x7",
+    "displayName": "STMicroelectronics STM32N6x7",
     "hardwareType": "MCU",
     "prioritizeSpeedOptimization": false,
     "dspGroups": 1,
